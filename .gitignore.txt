@@ -1,3 +1,7 @@
 useEffectHook/node_modules
 useRefHook/node_modules
 useStateHook/node_modules
+ConditionalRendering/node_modules
+MapFunction/node_modules
+
+
